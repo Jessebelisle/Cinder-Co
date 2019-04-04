@@ -1,0 +1,2 @@
+# Cinder-Co
+Splash Page
